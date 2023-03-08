@@ -3,6 +3,8 @@
 
 [![Python Versions][pyversion-button]][python-download-link] [![pygame 1.9.3][pygame-version]][pygame-download-link] [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
+Update on 2023 - I would never write code like this now. How naive I was.
+
 
 
 
