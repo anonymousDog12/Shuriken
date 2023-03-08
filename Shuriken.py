@@ -289,7 +289,7 @@ def gameLoop(img):
             wy = 0 - wheight
             wx = random.randrange(0, DISPLAY_WIDTH - wwidth)
             score += 1
-            if wspeed < 30:
+            if wspeed < 10:
                 wspeed += 1
             n = random.randrange(0, 4)
             weapon = weaponList[n]
